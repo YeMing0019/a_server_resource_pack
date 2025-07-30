@@ -1,0 +1,1 @@
+# a_server_resource_pack
