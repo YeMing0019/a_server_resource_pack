@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "alicloud",
+            "address": "http://101.201.152.234:6969"
+        }
+    ]
+}
