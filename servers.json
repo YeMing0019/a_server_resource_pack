@@ -2,7 +2,7 @@
     "servers": [
         {
             "name": "alicloud",
-            "address": "http://101.201.152.234:6969"
+            "address": "http://39.105.187.240:6969"
         }
     ]
 }
